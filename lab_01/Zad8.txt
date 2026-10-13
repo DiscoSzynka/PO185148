@@ -1,0 +1,22 @@
+Obiekt samochód w:
+A. System wypożyczalni samochodów
+Przykładowe cechy:
+numerRejestracyjny
+marka
+model
+rokProdukcji
+cena
+stanLicznika
+iloscKM
+typPaliwa
+
+B. Gra wyścigowa
+cenaZaWynajem
+kolor
+
+C. System warsztatu samochodowego
+marka
+model
+rokProdukcji
+stanLicznika
+silnik

@@ -1,0 +1,29 @@
+Klasa: Książka
+
+Stan:
+- tytuł
+- autor
+- rok wydania
+- ISBN
+
+Odpowiedzialności:
+- Przechowuje wszystkie dane o książce
+
+Klasa: Czytelnik
+
+Stan:
+- imię
+- nazwisko
+- numer karty bibliotecznej
+
+Odpowiedzialności:
+- Przechowuje wszystkie dane o czytelniku
+
+Klasa: Wypożyczenie
+
+Stan:
+- data wypożyczenia
+- termin zwrotu
+
+Odpowiedzialności:
+- Przechowuje dane na temat wypożyczenia
