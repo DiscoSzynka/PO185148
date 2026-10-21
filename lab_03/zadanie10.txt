@@ -1,0 +1,13 @@
+studentName w klasie Student - instancyjny bo kazdy student ma swoje imie
+
+numberOfStudents w klasie Student - statyczny bo to licznik studentow i jest taki sam dla kazdego studenta
+
+PI w klasie matematycznej - statyczny bo jest to stala
+
+balance w klasie BankAccount - instancyjny bo opisuje stan danego obiektu
+
+calculateVat(double price) w bezstanowej klasie pomocniczej - statyczny bo podatek jest stala
+
+carMileage w klasie Car - instancyjny bo moze byc stale zmieniany i opisuje stan danego obiektu
+
+MAX_LOGIN_ATTEMPTS w klasie LoginPolicy. - statyczny bo jest to stala dla kazdego obiektu
